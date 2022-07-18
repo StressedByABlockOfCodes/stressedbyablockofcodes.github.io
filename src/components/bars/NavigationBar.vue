@@ -119,9 +119,9 @@
                 <div class="flex items-center justify-between">
                   <div>
                     <img
-                      class="h-8 w-auto"
-                      src="https://tailwindui.com/img/logos/workflow-mark-cyan-600.svg"
-                      alt="Workflow"
+                      class="h-8 w-auto sm:h-10"
+                      :src="logoEmerald"
+                      alt="logo"
                     />
                   </div>
                   <div class="-mr-2">
