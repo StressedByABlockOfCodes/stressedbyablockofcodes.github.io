@@ -1,4 +1,8 @@
-# portfolio
+# Portfolio made using Vue.js and Tailwind.css
+
+## Portfolio Link:
+
+[https://stressedbyablockofcodes.github.io/](https://stressedbyablockofcodes.github.io/)
 
 ## Project setup
 ```
